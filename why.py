@@ -40,3 +40,4 @@ while True:
         print("Napsal jsi text")
         break
 
+print("ahoj")
